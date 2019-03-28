@@ -395,4 +395,9 @@
     <!-- Automatically dismiss lockscreen after face unlock -->
     <string name="face_auto_unlock_title">Face auto unlock</string>
     <string name="face_auto_unlock_summary">Dismiss lockscreen after face unlocking</string>
+
+    <!-- Show VoLTE icon on statusbar -->
+    <string name="volte_icon_title">VoLTE icon</string>
+    <string name="volte_icon_summary">Display VoLTE icon (Needs a SystemUI restart to take effect)</string>
+
 </resources>
